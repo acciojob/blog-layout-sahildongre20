@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #e2e1e0;
+}
+.container{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items:center;
+}
+.item{
+	background-color:white;
+	width:200px;
+	height:200px;
+}
