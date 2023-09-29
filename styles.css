@@ -2,7 +2,7 @@
 body{
 	background-color: #e2e1e0;
 }
-.container{
+.blog-column{
 	display:flex;
 	flex-wrap: wrap;
 	justify-content: center;
